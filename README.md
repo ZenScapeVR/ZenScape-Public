@@ -14,6 +14,17 @@ This repository serves as a platform for sharing various files and resources rel
 
 3. **Scripts**: Access scripts developed by our team for various purposes, such as automation, data processing, and more.
 
+
+## Tech Stack 
+1. Maya
+2. Unity
+3. Programming Lanugages: Python, C#
+4. Putty
+5. Firebase Realtime Database
+6. Oculus + Meta Quest 2 Headsets
+7. Arduino: Pulse Sensor + Ear Clip
+
+
 ## How to Use
 
 Feel free to browse through the folders and files in this repository. You can download any resources you find useful for your own projects or simply to get insights into our work.
