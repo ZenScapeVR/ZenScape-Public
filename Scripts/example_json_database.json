@@ -1,0 +1,20 @@
+{
+  "active_day:": 1,
+  "active_user": 1,
+  "zenscape_users": [
+    null,
+    {
+      "avg_pulse": "50",
+      "baseline": 90,
+      "live_pulse": "",
+      "metrics": [
+        null,
+        {
+          "accuracy": 90,
+          "avg_pulse": 80
+        }
+      ],
+      "pulse_history": ""
+    }
+  ]
+}
